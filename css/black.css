@@ -1,0 +1,13 @@
+:root {
+        --primaryColor: #ffffff;
+        --secondaryColor: rgb(24 27 33);
+
+        --primaryText: rgb(255, 255, 255);
+        --secondaryText: rgb(170, 168, 168);
+
+        --link: blue;
+}
+
+body {
+        color: var(--primaryText);
+}
